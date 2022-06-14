@@ -1,4 +1,4 @@
-int isalpha(int character)
+int ft_isalpha(int character)
 {
     if ((character >= 'a' && character <= 'z') || (character >= 'A' && character <= 'Z'))
     {
